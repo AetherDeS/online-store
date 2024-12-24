@@ -1,0 +1,20 @@
+\\fserver\CTT401cab\исип 78\Студенты\ЗолотаревскийДамиан\Csharp\repos\online-store\online-store\online-store\obj\Debug\online-store.csproj.AssemblyReference.cache
+\\fserver\CTT401cab\исип 78\Студенты\ЗолотаревскийДамиан\Csharp\repos\online-store\online-store\online-store\obj\Debug\online_store.MainForm.resources
+\\fserver\CTT401cab\исип 78\Студенты\ЗолотаревскийДамиан\Csharp\repos\online-store\online-store\online-store\obj\Debug\online_store.Properties.Resources.resources
+\\fserver\CTT401cab\исип 78\Студенты\ЗолотаревскийДамиан\Csharp\repos\online-store\online-store\online-store\obj\Debug\online-store.csproj.GenerateResource.cache
+\\fserver\CTT401cab\исип 78\Студенты\ЗолотаревскийДамиан\Csharp\repos\online-store\online-store\online-store\obj\Debug\online-store.csproj.CoreCompileInputs.cache
+\\fserver\CTT401cab\исип 78\Студенты\ЗолотаревскийДамиан\Csharp\repos\online-store\online-store\online-store\bin\Debug\online-store.exe.config
+\\fserver\CTT401cab\исип 78\Студенты\ЗолотаревскийДамиан\Csharp\repos\online-store\online-store\online-store\bin\Debug\online-store.exe
+\\fserver\CTT401cab\исип 78\Студенты\ЗолотаревскийДамиан\Csharp\repos\online-store\online-store\online-store\bin\Debug\online-store.pdb
+\\fserver\CTT401cab\исип 78\Студенты\ЗолотаревскийДамиан\Csharp\repos\online-store\online-store\online-store\obj\Debug\online-store.exe
+\\fserver\CTT401cab\исип 78\Студенты\ЗолотаревскийДамиан\Csharp\repos\online-store\online-store\online-store\obj\Debug\online-store.pdb
+C:\Users\401pc6\Desktop\online-store\online-store\online-store\bin\Debug\online-store.exe.config
+C:\Users\401pc6\Desktop\online-store\online-store\online-store\bin\Debug\online-store.exe
+C:\Users\401pc6\Desktop\online-store\online-store\online-store\bin\Debug\online-store.pdb
+C:\Users\401pc6\Desktop\online-store\online-store\online-store\obj\Debug\online-store.csproj.AssemblyReference.cache
+C:\Users\401pc6\Desktop\online-store\online-store\online-store\obj\Debug\online_store.MainForm.resources
+C:\Users\401pc6\Desktop\online-store\online-store\online-store\obj\Debug\online_store.Properties.Resources.resources
+C:\Users\401pc6\Desktop\online-store\online-store\online-store\obj\Debug\online-store.csproj.GenerateResource.cache
+C:\Users\401pc6\Desktop\online-store\online-store\online-store\obj\Debug\online-store.csproj.CoreCompileInputs.cache
+C:\Users\401pc6\Desktop\online-store\online-store\online-store\obj\Debug\online-store.exe
+C:\Users\401pc6\Desktop\online-store\online-store\online-store\obj\Debug\online-store.pdb
